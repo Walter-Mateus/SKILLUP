@@ -110,7 +110,7 @@ header ul {
 }
 
 #page .product button:hover {
-    background: greenyellow;
+    background: green;
 }
 
 footer {
@@ -133,14 +133,6 @@ footer {
     text-decoration: none;
     color:#000;
 }
-
-
-
-
-
-
-
-
 
 
 
